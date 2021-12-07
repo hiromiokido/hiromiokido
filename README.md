@@ -1,6 +1,6 @@
 Hello, I'm Daniela!  
 
-Graduated in Astrophysics, I'm qualified and trained in content such as Physics, Mathematics, Programming and Statistics.  
+Graduated in Astrophysics (UFRGS), I'm qualified and trained in content such as Physics, Mathematics, Programming and Statistics.  
 
 I program in R, C and Python. 
 
