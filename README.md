@@ -1,13 +1,12 @@
-Hello, I'm Daniela!
+Hello, I'm Daniela!  
 
-Graduated in Astrophysics, I'm qualified and trained in content such as Physics, Mathematics, Programming and Statistics.
+Graduated in Astrophysics, I'm qualified and trained in content such as Physics, Mathematics, Programming and Statistics.  
 
-I program in R, C and Python.
+I program in R, C and Python. 
 
-Other interests: cultural astronomy, decolonial astronomy, astronomy (cosmology and extragalactic), decolonial and gender studies.
+Other interests: cultural astronomy, decolonial astronomy, astronomy (cosmology and extragalactic), decolonial and gender studies.  
 
-dhiromiokido@gmail.com  
-lattes.cnpq.br/2716029538132166
+Contact info: dhiromiokido@gmail.com  
 
 <!---
 hiromiokido/hiromiokido is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
