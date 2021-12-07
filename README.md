@@ -1,4 +1,4 @@
-Daniela, astrophysicist. Currently interested in Data Science.
+
 
 
 
