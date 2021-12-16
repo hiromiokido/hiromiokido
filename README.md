@@ -1,8 +1,8 @@
 Hello, I'm Daniela!  
 
-Graduated in Astrophysics (UFRGS), I'm qualified and trained in content such as Physics, Mathematics, Programming and Statistics.  
+I'm soon to be graduated in Astrophysics (UFRGS), I'm qualified and trained in content such as Physics, Mathematics, Programming and Statistics.  
 
-I program in R, C and Python. Currently learning Data Science.
+I program in R, C and Python. Specially interested in (learning) Data Science.
 
 Other interests: cultural astronomy, decolonial astronomy, astronomy (cosmology and extragalactic), decolonial and gender studies.  
 
