@@ -5,5 +5,3 @@ I'm soon to be graduated in Astrophysics (UFRGS), I'm qualified and trained in c
 I program in R and C. Currently (re)learning - or remembering - Python and specially interested in (learning) Data Science.
 
 Other interests: cultural astronomy, decolonial astronomy, astronomy (cosmology and extragalactic), decolonial and gender studies.  
-
-Contact info: dhiromiokido@gmail.com  
