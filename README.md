@@ -1,9 +1,9 @@
-Hello, I'm Daniela!  
+Hello, I am Daniela!
 
-I'm soon to be graduated in Astrophysics (UFRGS), I'm qualified and trained in content such as Physics, Mathematics, Programming and Statistics.  
+With a BSc in Physics at UFRGS, I have experience in content such as Physics, Mathematics, Programming and Statistics. 
 
-I program in R, Python and C. Specially interested in (learning) Data Science. I have the purpose to use programming skills for social change. In other words, I believe in the active participation of the community in discussions involving Science & Technology.
+I program in R, Python and C, and believe in the active participation of the community in Science & Technology discussions, and the way I’ve found to help create this path is to use my programming skills for social impact.
 
-Other interests: cultural astronomy, decolonial astronomy, astronomy (cosmology and extragalactic), Latin American history, Asian American studies, decolonial and gender studies. 
+Other interests: cultural astronomy, decolonial astronomy, astronomy (cosmology and extragalactic), Latin American history, Asian American studies, decolonial and gender studies. I also enjoy learning new languages.
 
-You can find out more details about my academic profile accessing <a href="http://lattes.cnpq.br/2716029538132166">my resumé in the Lattes (CNPq) platform</a>.
+Academic background: <a href="http://lattes.cnpq.br/2716029538132166"> Lattes (CNPq) platform</a>.
